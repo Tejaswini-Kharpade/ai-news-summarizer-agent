@@ -99,3 +99,16 @@ streamlit run app.py
 
 Then open your browser and go to:
 👉 http://localhost:8501
+
+🧩 Example Output
+Title	                                  Summary	                                               Hashtags
+AI Drone Revolution	     AI drones are transforming logistics and defense...	    #AIDrones #TechNews #Innovation
+
+
+⚙️ Requirements
+
+Python 3.9+
+Streamlit
+OpenAI
+Requests
+Python-dotenv
